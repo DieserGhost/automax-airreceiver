@@ -2,7 +2,7 @@
 
 # 
 
-** you can build this main.py and put it in autostart and then you a Apple Airplay 2/DLNA/Google Chromecast/Miracast Device **
+**you can build this main.py and put it in autostart and then you a Apple Airplay 2/DLNA/Google Chromecast/Miracast Device**
 
 # 
 
