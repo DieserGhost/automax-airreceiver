@@ -8,6 +8,8 @@
 
 **you can build this main.py and put it in autostart and then you have a Apple Airplay 2/DLNA/Google Chromecast/Miracast Device**
 
+**you can use for this a Fujitsu ESPRIMO or ThinkCentre or some old goofy ahh potato pc/notebook**
+
 # 
 
 **Requirements:**
@@ -16,3 +18,4 @@
  - PyAutoGUI (Package)
  - PyGetWindow (Package)
  - Windows 10 or later (8 maybe also work, because it has the Windows Store / Microsoft Store, but i didn't tested it)
+ - 5GHz for good experience (i only recommend it, also works with 2,4GHz Network)
