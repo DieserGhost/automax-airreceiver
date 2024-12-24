@@ -5,7 +5,8 @@
 # 
 
 **Requirements:**
- - AirReceiver (obviously)
+ - AirReceiver (obviously) -> https://apps.microsoft.com/detail/9PJMSWQ0G6GC?hl=neutral&gl=DE&ocid=pdpshare
  - Python 3.11 or later (only tested on it) 
  - PyAutoGUI (Package)
  - PyGetWindow (Package)
+ - Windows 10 or later (8 maybe also work, because it has the Windows Store / Microsoft Store, but i didn't tested it)
