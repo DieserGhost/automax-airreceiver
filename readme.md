@@ -2,7 +2,7 @@
 
 **for what:**
 
-**This program maximizes theAirReceiver application. By executing this script, you can build it using [PYInstaller](https://pyinstaller.org/en/).**
+**This program maximizes theAirReceiver application. By executing this script, you can build it using [PyInstaller](https://pyinstaller.org/en/).**
 
 **more infos:**
 
