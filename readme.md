@@ -19,3 +19,5 @@
  - PyGetWindow (Package)
  - Windows 10 or later (8 maybe also work, because it has the Windows Store / Microsoft Store, but i didn't tested it)
  - 5GHz for good experience (i only recommend it, also works with 2,4GHz Network)
+
+#
