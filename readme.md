@@ -10,6 +10,10 @@
 
 **you can use for this a Fujitsu ESPRIMO or ThinkCentre or some old goofy ahh potato pc/notebook**
 
+**Install:**
+
+**put a shortcut of AirReceiver in the folder of the builded exe / .py script and execute the script/exe**
+
 # 
 
 **Requirements:**
