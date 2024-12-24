@@ -1,5 +1,7 @@
 # Auto Max For AirReceiver
 
+**for what:**
+
 **you can build this main.py and put it in autostart and then you have a Apple Airplay 2/DLNA/Google Chromecast/Miracast Device**
 
 # 
