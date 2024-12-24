@@ -11,7 +11,7 @@
 # 
 
 **Requirements:**
- - AirReceiver (obviously) -> https://apps.microsoft.com/detail/9PJMSWQ0G6GC?hl=neutral&gl=DE&ocid=pdpshare
+ - AirReceiver (obviously) -> [App on MStore](https://apps.microsoft.com/detail/9PJMSWQ0G6GC?hl=neutral&gl=DE&ocid=pdpshare)
  - Python 3.11 or later (only tested on it) 
  - PyAutoGUI (Package)
  - PyGetWindow (Package)
