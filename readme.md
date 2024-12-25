@@ -14,7 +14,7 @@
 
 **Install:**
 
-**put a shortcut of AirReceiver in the folder of the built exe / .py script and execute the script/exe**
+**put a shortcut of AirReceiver in the folder of the .py script and execute the script**
 
 # 
 
